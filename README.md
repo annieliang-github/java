@@ -425,7 +425,7 @@
 
 
 <details>
-<summary>NIO：Buffer缓冲区、Channel通道、FileChannel、字符集编码与解码、Pipe管道、NIO2Path、Paths、Files</summary>
+<summary>day16_NIO：Buffer缓冲区、Channel通道、FileChannel、字符集编码与解码、Pipe管道、NIO2Path、Paths、Files</summary>
 
 * [NIO](./NIO/README.md)
     * [NIO概述](./NIO/README.md#NIO概述)
@@ -458,9 +458,6 @@
     * [自动资源管理](./NIO/README.md#自动资源管理)
 </details>
 
-<details>
-<summary>day16_多线程练习</summary>
-</details>
 
 
 <details>
