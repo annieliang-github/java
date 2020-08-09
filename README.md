@@ -458,8 +458,8 @@
     * [自动资源管理](./NIO/README.md#自动资源管理)
 </details>
 
-* [day16_多线程练习](./day16/README.md "")
-
+<details>
+<summary>day14_day16_多线程练习</summary>
 
 <details>
 <summary>day17_多线程</summary>
