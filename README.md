@@ -1,6 +1,3 @@
-JAVA Study
-==
-
 # Table Of Contents
 <details>
 <summary>day01_JAVA语言概述与基本语法：标识符、变量也变量分类、源码_反码_补码、进制转换、编码与字符集</summary>
